@@ -1,7 +1,7 @@
 # Heart-Disease-Prediction-AutoAI-
 import requests
 
-API_KEY = "ONNl4vF22qROn5l7PNAcSBjmt0SGLwy8kfEGkmJ1og5-"
+API_KEY = "<Your Api Key"
 
 # Get token
 token_response = requests.post(
